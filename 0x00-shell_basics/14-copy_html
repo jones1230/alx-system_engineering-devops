@@ -1,2 +1,2 @@
 #!/bin/bash
-mc *.html ../
+mv *.html ../
